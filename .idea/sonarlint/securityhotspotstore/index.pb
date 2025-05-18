@@ -7,3 +7,5 @@ H
 contracts/threshold.clar,0/8/08cd05af98f9e1110a09557ffe20b947d3915c9a
 J
 contracts/sensor-data.clar,3/5/355f28504f2dd3e44569dce7a79c666ee80a8020
+Q
+!contracts/asset-registration.clar,3/5/359efc922f0fe1a8fb8aa99ef2802ecbf8721efc
