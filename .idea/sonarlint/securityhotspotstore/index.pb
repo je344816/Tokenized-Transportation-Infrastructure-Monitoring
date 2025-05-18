@@ -5,3 +5,5 @@ O
 contracts/alert-management.clar,8/6/8614a233af464fde2547e6d7f9894c68a07e2c78
 H
 contracts/threshold.clar,0/8/08cd05af98f9e1110a09557ffe20b947d3915c9a
+J
+contracts/sensor-data.clar,3/5/355f28504f2dd3e44569dce7a79c666ee80a8020
